@@ -1,0 +1,524 @@
+mpicc -o bin/main src/main.c -O2 -Wall -mp=gpu -fopenmp -lm
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+0.00 seconds to generate the graph.
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.00 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+0.01 seconds to generate the graph.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.33 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.33 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.33 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.32 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.33 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.32 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.36 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.34 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.36 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.35 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.33 seconds.
+2057 iterations achieved in 10.00 seconds
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 1.000000000000.
+Total time taken: 10.33 seconds.
