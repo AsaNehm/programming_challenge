@@ -231,8 +231,14 @@ int main(int argc, char* argv[])
 
     //---Add my own stuff here---
     int rank_length = GRAPH_ORDER / numtasks; 
-    start_idx = rank_length * rank;
-    end_idx = rank_length * rank + rank_length - 1;
+    int remains = GRAPH_ORDER % numtasks;
+    if (rank == numtasks - 1) {
+      start_idx = rank_length * rank;
+      end_idx = rank_length * rank + rank_length + remains - 1;
+    } else {
+      start_idx = rank_length * rank;
+      end_idx = rank_length * rank + rank_length - 1;
+    }
     //---//
 
     /// The array in which each vertex pagerank is stored.
